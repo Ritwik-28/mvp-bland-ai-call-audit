@@ -44,10 +44,10 @@ violations**, then log structured results back to Google Sheets.
 ## 2  Quick‑start
 
 ```bash
-git clone <repo>
-cd crio-ai-audit-agent
+git clone https://github.com/Ritwik-28/mvp-bland-ai-call-audit.git
+cd mvp-bland-ai-call-audit
 cp .env.example .env      # fill in secrets
-npm ci
+npm i
 
 # generate first API key
 npm run genkey            # or: npm run genkey -- --force
