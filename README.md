@@ -1,5 +1,5 @@
 
-# Crio AI Audit Agent
+# AI Audit Agent
 
 AI Audit Agent for outbound Bland‑AI calls to check for **hallucinations, prompt‑drift and QA (SHAPE) policy
 violations**, then log structured results back to Google Sheets.
