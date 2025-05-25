@@ -1,0 +1,6 @@
+node_modules
+.env
+bland-admin-gcp-service-account.json
+Dockerfile
+scripts
+.cache
